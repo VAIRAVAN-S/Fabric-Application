@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+data/gold_catalog.json
+data/match_audit.json
